@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -r kaizen hello bash
+sudo userdel -r tim
+sudo yum remove httpd -y
